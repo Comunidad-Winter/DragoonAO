@@ -1,0 +1,16 @@
+Si tenes Windows Vista, el Sistema Operativo Windows Vista, no el entorno para Windows XP de Vista.
+
+Si tenes Vista, anda a Inicio Ejecutar.
+
+Y pone la Siguiente linea: REGSVR32 "TUDIRECTORIO\msstdfmt.dll"
+
+Donde dice TUDIRECTORIO tenes colocar la Direccion donde Se encuentra el DragoonAO Instalado,
+por ejemplo, yo lo tengo instalado en Archivos de Programa, entonces seria de la sig manera,
+
+REGSVR32 c:\archivos de programa\DAO Staff\DragoonAO\msstdfmt.dll
+
+
+CUalquier duda, ingresar al Foro "http://foro.dragoon-ao.com.ar" o mandar un Mail a soporte@dragoon-ao.com.ar
+
+Atte,
+    Rakaa

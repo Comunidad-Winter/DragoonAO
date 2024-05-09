@@ -1,0 +1,301 @@
+REGLAMENTO GENERAL
+
+ 
+
+1. Acerca del Reglamento Oficial
+
+1.1 El Reglamento de DragoonAO tiene vigencia desde el momento de su publicación, cualquier actualización será comunicada por medio de nuestra página Web
+
+1.2 Los usuarios tienen la obligación de comprobar la existencia de modificaciones del presente reglamento, antes de entrar al juego.
+
+1.3 Por el solo hecho de ejecutar y/o descargar DragoonAO, aceptara el deber de dar cumplimiento a cada una de las cláusulas aquí expuestas.
+
+1.4 El Sistema de Soporte no se debera utilizar para Hablar con algun Gm, o para demostrar emociones. Si y solo si para realizar una duda consisa y denuncias.
+
+No se permitiran respuestas de Mensajes como, "Gm, vengaa" . El Soporte solo se tomara en cuenta al enviarse si y solo si la duda en cuestion, por ejemplo, estoy trabado en Mapa de Agite. Solo se tomaran en cuenta Dudas concretas.
+
+ 
+
+2. Aclaraciones
+
+2.1 El Staff de DragoonAO se reserva el derecho de admisión y permanencia al Servidor.
+
+2.2 El Staff de DragoonAO, no se responsabilizara por Caidas y Fallas en el Servidor
+
+2.3 El staff de DragoonAO no se responsabiliza por cualquier daño ocasionado por nuestro juego, Usted mismo se hara responsable.
+
+2.4 El Staff de DragoonAO deja constancia de que si los encargados del juego lo entienden pertinente, a los efectos de proteger el juego de la utilización ilegal de programas externos por parte de los usuarios, se podrá hacer uso de los medios necesarios para conocer los programas y/o cualquier aplicación que éstos ejecuten en su PC, simultáneamente con el juego, como asi tambien cerrar dichas aplicaciones y sancionar por el uso del mismo.
+
+2.5 El Staff de DragoonAO no se hara responsable por el Uso indebido del Cliente, en caso de perjudicar a otras personas o al mismo servidor, sera penado con la mayor pena que Existe en Toda La Tierra.
+
+2.6 El Staff se reserva el derecho a ampliar cualquier pena, inclusive aplicando baneo por IP o e-mail en caso de que se reitere la infracción y se lo crea conveniente.
+
+3. Reglamentos de Usuarios
+
+3.1 Acusar de corrupción a algun Integrante del Staff de DragoonAO públicamente es considerado una falta grave. Los administradores aplicarán la sanción correspondiente de acuerdo al Sistema de Penas a Game Masters
+
+3.2 Se prohíbe hacerse pasar por un miembro del Staff, o bien por conocido o familiar de un miembro del Staff con objeto de obtener cualquier tipo de beneficio.
+
+3.3 Es obligación para los usuarios el reportar cualquier bug que encuentre en el Servidor y no haya sido declarado por el Staff de DragoonAO como ya identificado. La explotación de cualquier bug será penada de acuerdo a la gravedad del mismo.
+
+3.4 Los usuarios tienen prohibido el uso de insultos, como así también las faltas de respeto y las actitudes discriminatorias a otros usuarios. El Staff de DragoonAO puede aplicar ante estas faltas, las penas más rigurosas según la gravedad del caso. (Ver Sistema de Penas a Usuarios).
+
+3.5 Los usuarios tienen prohibido bloquear el paso impidiendo que otros jugadores circulen con libertad. De acuerdo a la gravedad del caso se podrá aplicar tres tipos de pena:
+
+a) Carcel por un Margen de Tiempo
+b) El baneo temporal de Dias
+c) Baneo Permanente
+
+3.6 No está permitido el reitero de consultas a través del Sistema de Soporte hasta tanto un Game Master haya contestado, solo se podrá reiterar el pedido si éste no fue respondido pasado una semana desde la fecha de consulta.
+
+3.7 Los usuarios tienen prohibida la sumatoria fraudulenta de frags para aumentar su rango en Muertes, siendo la pena la expulsión de la facción a la cuál pertenece y la disminución a cero de las muertes sumadas, si es que pretendiera enlistarse. Habrá también sanción para el personaje que se prestó a morir con el fin de fraguar el requisito de jerarquías faccionario.
+
+3.8 Los usuarios tienen prohibida la utilización de cualquier programa no provisto oficialmente por la Pagina de Descargas de DragoonAO, el uso de cualquier programa externo que tenga como fin sacarle ventaja ante otros usuarios dentro del juego, será considerado una grave falta. El Staff de DragoonAO no se responsabiliza por los daños que estos mismos programas puedan causar a la PC del usuario.
+
+3.9 La seguridad del personaje es responsabilidad de cada usuario. El Staff no se hace responsable por el robo de ningún personaje, o robo de Items y no tendrá la obligación de realizar una investigación por el hecho ni buscar a los responsables.
+
+3.10 Cualquier jugador que se encuentre en colaboración con otro que estuviera rompiendo una o más reglas de las aquí expuestas, será castigado en carácter de cómplice, siendo la pena la considerada justa por Director de Gms
+
+ 
+
+Sistema de Penas
+
+ 
+
+1. Conductas Inapropiadas
+
+1.1 Acusar de corrupción al Staff tal como se detalla en el reglamento en el punto 3.
+
+1.2 Mentir sobre la relación que se tiene con el Staff a fin de obtener beneficio propio.
+
+En ambos casos se le aplicará la pena de 5 dias de baneo al personaje involucrado. Si vuelve a cometer la misma infracción el personaje será baneado permanentemente.
+
+ 
+
+2. Insultos
+
+2.1 Insultos leves - 5 minutos de cárcel.
+
+2.2 Insultos graves - 8 Minutos de cárcel.
+
+2.3 Discriminación de cualquier tipo - 5 días de ban.
+
+ 
+
+3. Abuso de algun Bug
+
+3.1 Bug leve - 5 Minutos de Carcel .
+
+3.2 Doble cliente - 10 Minutos de Carcel
+
+3.3 Bug grave - ban permanente.
+
+ 
+
+4. Bloqueos
+
+4.1 Obstruir la libre circulación de personas vivas estando muerto.
+
+4.2 Obstruir la libre circulación en zona segura.
+
+4.3 Obstruir la libre circulación a personajes de una misma facción.
+
+Todas las faltas por bloqueos serán penadas con 20 minutos de cárcel.
+
+ 
+
+5. Uso de Programas Externos
+
+5.1 Ver invisibles - ban permanente
+
+5.2 Macros que no sean provistas por el Staff a través de la Web oficial y se utilicen para sacar ventaja a nivel jugabilidad - ban permanente
+
+ 
+
+6. Penas de Carcel
+
+6.1 Mal uso del Sistema de Soporte.
+
+6.2 Suma de Frags fraudulenta.
+
+6.3 Complicidad para corromper las reglas.
+
+La primera infracción será castigada con cárcel de 10 minutos, la segunda y tercera cárcel de 20 minutos, la cuarta el personaje será baneado por 3 días, la quinta 10 días y a la sexta vez se le aplicará el baneo definitivo del personaje. Esto mismo se aplicará en cada caso en que se reitere la falta.
+
+ 
+
+1. Suma de personajes
+
+1.1 Los personajes deberán pagar la suma impuesta por inscripción de torneo al momento de ser llevados al mapa donde se realizará dicho evento.
+
+1.2 De no tener el monto se lo encarcelará 15 minutos bajo la pena "provocar demoras en torneos realizados por GMs".
+
+1.3 Si venciera el lapso que el GM da para encontrar una pareja de determinados requisitos o se presentaran quienes no cumpliesen con los términos impuestos por los GMs para el puntual torneo, se los encarcelará bajo la misma pena citada en el punto 1.2
+
+1.4 Al ser sumoneado el usuario deberá pagar el oro del evento. Inmediatamente después debe dirigirse al teleport que se encuentra arriba a la izquierda de la isla a la que fue llevado, para no entorpecer el trabajo de los GMS.
+
+1.5 Una vez pagada la inscripción y pasado el teleport, no se tiene más acceso a la bóveda, por lo que, quedarán restringidos los ítems a la suma de lo que uno posea en el inventario, no teniendo opción de solicitar bóveda o comerciante alguno.
+
+1.6 Los GMs no pueden sumonear mochilas o personajes que tengan ítems con el fin de "equipar" el personaje que se presentará a jugar. Cualquier ausencia de ítem queda bajo la responsabilidad del jugador que no se preocupó por asistir con los elementos necesarios y jugará el torneo asumiendo la ausencia de estos.
+
+1.7 Un mismo equipo o pareja no podrá participar con dos personajes que pertenezcan a una misma clase.
+
+1.8 En caso que el torneo sea tres vs tres una clase deberá ser no mágica obligatoriamente.
+
+ 
+
+2. Organización de los duelos en el ring
+
+2.1 Al ser trasladados al área de combate, deberán ocupar sus respectivas esquinas y aguardar el conteo del GM que indicará el momento del comienzo.
+
+2.2 Se deberá respetar el conteo asumiendo una sanción en el caso de comenzar antes de que éste haya terminado.
+
+2.3 Será ganador del duelo, el equipo que gane dos de tres rounds.
+
+2.4 Estará prohibido atacar a un contrincante durante los preparativos, siendo la pena, la descalificación inmediata del evento.
+
+ 
+
+3. Durante el torneo
+
+3.1 Las clases mágicas no podrán utilizar los siguientes hechizos:
+
+Estupidez
+
+Torpeza
+
+Debilidad
+
+Curar heridas graves
+
+Curar heridas leves
+
+Invisibilidad
+
+Elementales de agua
+
+Resucitar
+
+Invocar zombis
+
+Llamado a la naturaleza
+
+Elementales de tierra
+
+Provocar hambre
+
+Terrible hambre de igor
+
+Ninguna clase podrá ocultarse.
+
+ 
+
+3.2 Si alguno de los jugadores invocase cualquiera de los hechizos mencionados en el inciso 3.1 será matados y el round seguirá normalmente. En caso de que el round terminara como consecuencia de la utilización de uno de esos hechizos, y el ganador hubiera sido el equipo que cometió la infracción, el round será jugado nuevamente y quien cometió la falta comenzará el mismo estando muerto.
+
+3.3 Bajo ninguna circunstancia un jugador puede tener en pantalla más de una criatura invocada. Se permite invocar otra en el único caso de que el anterior elemental o fuego fatuo haya muerto.
+
+3.4 Durante el duelo si algún personaje muere en batalla se tendrá que dirigir junto al GM y no podrá moverse a fin de no entorpecer la batalla de sus compañeros.
+
+3.5 Si durante el duelo queda un personaje de cada pareja tendrán cinco minutos como máximo para matarse.
+
+3.6.1 Al pasar los cinco minutos comenzarán a desequiparse los ítems que el GM vaya indicando.
+
+3.6.2 En el caso de las clases no mágicas, deberán plantarse uno frente a otro e ir dejando pociones a medida que el GM lo indique.
+
+ 
+
+4. Finalización del duelo
+
+4.1 El ganador o la pareja ganadora, tendrá que dirigirse directamente al teleport que se encuentra en cada ring, este los Llevara a la Ciudad
+
+4.2 La pareja perdedora tendrá que aguardar en el ring hasta que el GM los sumonee o le indique de ir a la Ciudad
+
+4.3 Si la pareja o el personaje perdedor se dirige al teleport para vender o dropear los ítems, serán encarcelados por 30 minutos (al reincidir en otros torneos la pena se duplicará y luego se procederá al baneo temporal del/los personajes).
+
+4.4 Los personajes que queden descalificados por derrota serán transportados a Ullathorpe luego de cumplir con el inciso 4.3
+
+ 
+
+5. Finalización del evento
+
+5.1 La pareja o el personaje ganador del evento, se llevara un punto de Torneo y un Item de canje
+
+5.2 La pareja o el personaje que salga en el segundo puesto, se llevara un Items para Segundo Puesto
+
+5.3 Tanto los personajes del primer puesto como los del segundo serán llevados a Ullathorpe luego de cumplir con los pagos estipulados en los incisos 5.1 y 5.2 del presente reglamento.
+
+ 
+
+6. Sanciones durante el evento
+
+6.1 Si algún personaje le falta el respeto a un Game Master o algún otro personaje, el GM podrá tomar la decisión de matarlos en ese round o descalificarlos del torneo y encarcelarlos o banearlos según la gravedad del insulto (ver sistema de penas).
+
+6.2 Al finalizar el evento, los usuarios disconformes sobre la realización del mismo o la actitud del GM podrán elevar una queja al Director de GMs a traves del formulario de soporte via mail de Soporte, quedando expuestos a sanción y perdida de derecho a descargo en caso de acusación pública a través del foro oficial o cualquier otro medio de comunicación vigente.
+
+ 
+
+Reglamento de nombres inválidos y/o prohibidos dentro del juego:
+
+ 
+
+1. Nombres prohibidos para los personajes del juego
+
+1.1 No se permiten nicks agresivos ni insultantes. (Ejemplos: "te kbe", y cualquier insulto)
+
+1.2 Sí se permiten prefijos del tipo; Lord, Sir, Conde, etc, y sufijos de números romanos (Ejemplos: "Lord Francis", "Francis III")
+
+1.3 No se permiten nicks chabacanos o vulgares (ante cualquier duda a ésta regla, comunicarse con algún miembro del staff mediante Mensaje Privado en el foro oficial). (Ejemplos: "te rompo el toor", "fumata", "aguante el churro", etc)
+
+1.4 No se permiten nicks sin ningún sentido (Ejemplo: "fasfggqw" "asd" )
+
+1.5 No se permiten nicks que no respondan a la moral colectiva o a las buenas costumbres
+
+1.6 No se permiten nicks de un solo carácter, sean o no compuestos. Ejemplo NO ES VÁLIDO AA" "P" "A A" "A P", "J P", etc...
+
+2. Nombres prohibidos para los clanes
+
+2.1 Para los clanes del juego se aplican las mismas normas que para los personajes.
+
+3. Penas
+
+3.1 A ningún Personaje se le aplicará la pena de Ban en lo referente a la falta a las normas del “reglamento de Nicks” en cuanto a rol y faltas de comprensión se refiera, por lo que se le otorgará la justa oportunidad de modificar el Nick.
+
+3.2 No se cambiará ningún nombre que no transgreda alguna de las normas del presente reglamento.
+
+3.3 En caso de indiferencia por parte del Usuario hacia estas normas o en caso de que el nick original sea claramente insultante y/o agresivo se procederá al ban permanente del personaje.
+
+3.4 Se aplicará el mismo criterio para los clanes, siendo el fundador el responsable del nombre del mismo.
+
+4. Los puntos de canjeo se repatiran en:
+
+4.1 Torneo: 3 Puntos de Canje y Punto de Torneo
+4.2 Deathmatch: 3 Puntos de Canje
+4.3 Quest: 2 Puntos de Canje
+4.4 Busqueda: Punto de Canje
+
+ 
+
+Reglamento Aplicado a Game Masters 
+
+Generales
+
+1.0 El Game Master estara autorizado a Ver tus Procesos y tener el Derecho de Cerralo si detecta uso de algun Cheat.
+
+1.1 El Game Master solo realizara la funcion predeterminada a la que esta en su puesto, mencionado en la Seccion de Staff. Para que se realize un ascenso, el Game Master debera enviar un mail al Administrador y se tomara en cuenta el tema en la reunion semanal de Administradores.
+
+1.2 El Sistema de Soporte solo estara disponible si algun Game Master de Soporte este online, antes de Enviar un Soporte, por favor leer el Reglamento para la Utilizacion del Soporte, sino sera Sancionado. El GM enviara una respuesta mediante Consola al Usuario con la duda.
+
+1.3 El Game Master debera decir la sancion a la que le aplicara al Usuario, siempre utilizando una forma de Cortez.
+
+1.4 Para realizar denuncias o quejas de Game Master solo se tomaran en Cuenta mediante via Mail al Administrador.
+
+Eventos
+
+2.0 El Game Master esta en el derecho de Encarcelar a todo Usuario que no respete las normas de Convivencia establecidas en la Parte de Introduccion de este reglamento.
+
+2.1 Los encarcelamientos no podran durar mas de 3 Horas. Maximo Permitido de Carcel 120 Minutos
+
+2.2 Los Baneos Permanentes se podran desbanear mediante via Mail, al Administrador, mediante un Formulario que se encuentra en nuestro Foro.
+
+Atte, Rakanegeum(Raka) <Admin> RLZ!
+raka@dragoon-ao.com.ar

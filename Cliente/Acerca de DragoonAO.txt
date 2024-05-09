@@ -1,0 +1,10 @@
+Buenos dias, gracias por elegir DragoonAO. Esta nueva version cuenta con un Sistema de Monturas,
+soluciones de todos los errores de la Anterior Version, agregamos el Sistema de Salas de Duelos
+personales de 1 vs 1, mediante los comandos /SALA1 /SALA2 /SALA3 /SALA4 solo utilizables en mapa
+de Salas, teleport en Ulla, y con el Comando /INFSALAS para visualizar las disponibidad de las Salas
+Implementamos un Sistema de Cambio de Rostros, mediante NPC en Ulla. Un sistema de Canje mediante F1
+Por el momento, esto solo puedo mencionarles esto. Por favor, leer reglamento Oficial en la Web o en
+el archivo Reglamentos en esta misma carpeta. Para que no surjan mal entendidos.
+
+Atte,
+    Raka <Diseñador de DragoonAO> <Admin>
